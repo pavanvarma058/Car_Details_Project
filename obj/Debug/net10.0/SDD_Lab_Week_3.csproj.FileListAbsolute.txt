@@ -1,0 +1,14 @@
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/bin/Debug/net10.0/SDD_Lab_Week_3
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/bin/Debug/net10.0/SDD_Lab_Week_3.deps.json
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/bin/Debug/net10.0/SDD_Lab_Week_3.runtimeconfig.json
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/bin/Debug/net10.0/SDD_Lab_Week_3.dll
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/bin/Debug/net10.0/SDD_Lab_Week_3.pdb
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/SDD_Lab_Week_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/SDD_Lab_Week_3.AssemblyInfoInputs.cache
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/SDD_Lab_Week_3.AssemblyInfo.cs
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/SDD_Lab_Week_3.csproj.CoreCompileInputs.cache
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/SDD_Lab_Week_3.dll
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/refint/SDD_Lab_Week_3.dll
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/SDD_Lab_Week_3.pdb
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/SDD_Lab_Week_3.genruntimeconfig.cache
+/Users/yeswanth/Software_Desgin_Development/SDD_Lab_Week_3/obj/Debug/net10.0/ref/SDD_Lab_Week_3.dll
