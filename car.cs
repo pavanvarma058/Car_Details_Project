@@ -71,4 +71,14 @@ class Car
         owner = newOwner;
         return owner;
     }
+
+    private bool full()
+    {
+        return petrol == tankSize;
+    }
+
+    private bool empty()
+    {
+        return petrol == 0;
+    }
 }
